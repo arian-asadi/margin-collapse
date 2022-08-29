@@ -1,0 +1,21 @@
+.one {
+  margin: 2rem;
+  background: rgb(23, 23, 228);
+  width: 20rem;
+  height: 10.5rem;
+}
+
+p {
+  margin: 2rem;
+  background: rgb(11, 218, 221);
+  width: 10rem;
+}
+
+h1 {
+  background-color: orange;
+  padding: 20px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  margin-left: 20%;
+}
